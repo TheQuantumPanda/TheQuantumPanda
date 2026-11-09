@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" height="260">
+  <defs>
+    <!-- Viewport mask for the slot-machine spin effect -->
+    <clipPath id="spin-window">
+      <rect x="0" y="75" width="900" height="110" />
+    </clipPath>
+    <style>
+      .bg {
+        fill: #000000;
+      }
+      .word {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 72px;
+        font-weight: 800;
+        fill: #ffffff;
+        letter-spacing: -2.5px;
+        text-anchor: middle;
+        dominant-baseline: central;
+      }
+      .spinner {
+        animation: spinCycle 4s cubic-bezier(0.65, 0, 0.35, 1) infinite;
+      }
+      @keyframes spinCycle {
+        0%, 35% {
+          transform: translateY(0px);
+        }
+        50%, 85% {
+          transform: translateY(-110px);
+        }
+        100% {
+          transform: translateY(-220px);
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Solid Black Background -->
+  <rect class="bg" width="900" height="260" />
+
+  <!-- Masked Spinning Text Track -->
+  <g clip-path="url(#spin-window)">
+    <g class="spinner">
+      <text class="word" x="450" y="130">Daksha Yadav</text>
+      <text class="word" x="450" y="240">TheQuantumPanda</text>
+      <text class="word" x="450" y="350">Daksha Yadav</text>
+    </g>
+  </g>
+</svg>
