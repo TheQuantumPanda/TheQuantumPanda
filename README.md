@@ -70,3 +70,62 @@ I enjoy building software, exploring ideas, and understanding how things work un
 <p align="center">
   <img src="./assets/endmarker.gif" alt="" width="100%" />
 </p>
+
+## <img src="./assets/skills.gif" height="30" valign="middle" alt="" /> Technologies I Work With
+
+<table>
+  <tr>
+    <td width="28%" valign="middle"><strong>Languages</strong></td>
+    <td valign="middle">
+      <img src="./assets/icons/typescript-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/typescript-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;TypeScript &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/javascript-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/javascript-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;JavaScript &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/python-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/python-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Python
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="middle"><strong>Frontend &amp; UI</strong></td>
+    <td valign="middle">
+      <img src="./assets/icons/react-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/react-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;React &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/reactrouter-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/reactrouter-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;React Router &nbsp;&bull;&nbsp;
+      <code>PDF.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="middle"><strong>Backend &amp; APIs</strong></td>
+    <td valign="middle">
+      <img src="./assets/icons/nodedotjs-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/nodedotjs-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Node.js &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/express-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/express-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Express &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/fastapi-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/fastapi-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;FastAPI &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/flask-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/flask-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Flask
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="middle"><strong>AI &amp; Agentic Systems</strong></td>
+    <td valign="middle">
+      <img src="./assets/icons/langgraph-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/langgraph-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;LangGraph &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/modelcontextprotocol-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/modelcontextprotocol-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Model Context Protocol (MCP)
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="middle"><strong>Databases &amp; Storage</strong></td>
+    <td valign="middle">
+      <img src="./assets/icons/postgresql-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/postgresql-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;PostgreSQL &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/mongodb-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/mongodb-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="middle"><strong>DevOps, Testing &amp; Tooling</strong></td>
+    <td valign="middle">
+      <img src="./assets/icons/docker-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/docker-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Docker &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/pytest-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/pytest-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Pytest &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/playwright-plain-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/playwright-plain-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Playwright &nbsp;&bull;&nbsp;
+      <img src="./assets/icons/zod-dark.svg#gh-dark-mode-only" alt="" height="20" valign="middle" /><img src="./assets/icons/zod-light.svg#gh-light-mode-only" alt="" height="20" valign="middle" />&nbsp;Zod &nbsp;&bull;&nbsp;
+      <code>Puter</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/endmarker.gif" alt="" width="100%" />
+</p>
+
