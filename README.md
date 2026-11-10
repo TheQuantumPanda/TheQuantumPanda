@@ -131,3 +131,30 @@ I'm particularly interested in full-stack development, AI-powered and agentic sy
   <img src="./assets/endmarker.gif" alt="" width="100%" />
 </p>
 
+## <img src="./assets/current.gif" height="30" valign="middle" alt="" /> Currently Exploring
+
+- **Agentic AI:** Exploring multi-agent architectures, LangGraph and MCP.
+- **Full-stack Engineering:** Building scalable applications and improving backend architecture.
+- **Linux & Systems:** Experimenting with Linux environments, shell workflows, command-line tools and system configuration.
+
+<p align="center">
+  <img src="./assets/endmarker.gif" alt="" width="100%" />
+</p>
+
+## <img src="./assets/connect.gif" height="30" valign="middle" alt="" /> Connect
+
+I'm always open to interesting projects, collaborations, and conversations about technology. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yadavdaksha">
+    <img src="./assets/linkedin.gif" alt="LinkedIn" height="75" width="75" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yadavdaksh4090@gmail.com">
+    <img src="./assets/mail.gif" alt="Email" height="75" width="75" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/endmarker.gif" alt="" width="100%" />
+</p>
