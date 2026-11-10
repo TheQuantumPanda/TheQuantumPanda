@@ -2,7 +2,7 @@
   <img src="./assets/header.svg" alt="Project Header" width="100%" />
 </p>
 
-## <img src="./assets/about.gif" height="30" valign="middle" alt="" /> About
+## <img src="./assets/about.gif" height="60" alt="" /> About
 
 I enjoy building software, exploring ideas, and understanding how things work under the hood. Most of my learning happens through experimentation and turning ideas into working projects.
 
