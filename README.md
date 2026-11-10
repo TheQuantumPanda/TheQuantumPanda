@@ -141,7 +141,7 @@ I'm particularly interested in full-stack development, AI-powered and agentic sy
   <img src="./assets/endmarker.gif" alt="" width="100%" />
 </p>
 
-## <img src="./assets/connect.gif" height="30" valign="middle" alt="" /> Connect
+## <img src="./assets/connect.gif" height="30" alt="" /> Connect
 
 I'm always open to interesting projects, collaborations, and conversations about technology. Feel free to reach out!
 
