@@ -4,7 +4,9 @@
 
 ## <img src="./assets/about.gif" height="60" alt="" /> About
 
-I enjoy building software, exploring ideas, and understanding how things work under the hood. Most of my learning happens through experimentation and turning ideas into working projects.
+I enjoy building software and exploring how ideas turn into useful, reliable products. I learn best by experimenting—working across the stack, understanding the systems beneath the interface, and solving problems through hands-on projects rather than stopping at theory.
+
+I'm particularly interested in full-stack development, AI-powered and agentic systems, and the engineering decisions that make software practical, maintainable, and easy to reason about. I like taking an idea, figuring out how its pieces fit together, and gradually turning it into something that works.
 
 <p align="center">
   <img src="./assets/endmarker.gif" alt="" width="100%" />
@@ -61,7 +63,7 @@ I enjoy building software, exploring ideas, and understanding how things work un
       <p><strong>Technologies:</strong> React, TypeScript, Flask, PostgreSQL, Docker</p>
       <p>
         <a href="https://github.com/TheQuantumPanda/CrewFlow">Repository</a> &nbsp;|&nbsp;
-        <a href="https://crewflow-a18v.onrender.com/">Live Demo</a>
+        <a href="https://crewflow-a18v.onrender.com/">Deployment Preview</a>
       </p>
     </td>
   </tr>
