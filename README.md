@@ -153,6 +153,16 @@ I'm always open to interesting projects, collaborations, and conversations about
   <a href="mailto:yadavdaksh4090@gmail.com">
     <img src="./assets/mail.gif" alt="Email" height="75" width="75" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="./assets/docs/Daksha_Yadav_Resume.pdf">
+    <img src="./assets/resume.svg" alt="Resume" height="75" width="75" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Resume:</strong> &nbsp;
+  <a href="./assets/docs/Daksha_Yadav_Resume.pdf">View Resume</a> &nbsp;|&nbsp;
+  <a href="./assets/docs/Daksha_Yadav_Resume.pdf?raw=true">Download Resume</a>
 </p>
 
 <p align="center">

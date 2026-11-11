@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080" role="img" aria-label="Resume">
+  <defs>
+    <style>
+      .badge {
+        transform-origin: 540px 540px;
+        animation: subtlePulse 5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+      }
+      @keyframes subtlePulse {
+        0%, 36%, 64%, 100% {
+          transform: scale(1);
+        }
+        46% {
+          transform: scale(0.92);
+        }
+        54% {
+          transform: scale(1.04);
+        }
+      }
+    </style>
+  </defs>
+
+  <g class="badge">
+    <!-- Circular badge matching Connect section icons -->
+    <circle cx="540" cy="540" r="400" fill="#0274B3" />
+
+    <!-- Document sheet with folded top-right corner cutout -->
+    <path fill="#FFFFFF" d="M 402 320 L 592 320 L 592 414 Q 592 438 616 438 L 710 438 L 710 728 Q 710 760 678 760 L 402 760 Q 370 760 370 728 L 370 352 Q 370 320 402 320 Z" />
+
+    <!-- Folded corner flap -->
+    <path fill="#FFFFFF" d="M 618 326 L 704 412 L 628 412 Q 618 412 618 402 Z" />
+
+    <!-- Resume header avatar & title bar -->
+    <circle cx="448" cy="422" r="32" fill="#0274B3" />
+    <rect x="498" y="407" width="70" height="30" rx="15" fill="#0274B3" />
+
+    <!-- Resume content lines -->
+    <rect x="416" y="498" width="248" height="30" rx="15" fill="#0274B3" />
+    <rect x="416" y="564" width="248" height="30" rx="15" fill="#0274B3" />
+    <rect x="416" y="630" width="176" height="30" rx="15" fill="#0274B3" />
+  </g>
+</svg>
