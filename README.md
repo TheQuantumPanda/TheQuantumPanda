@@ -160,11 +160,5 @@ I'm always open to interesting projects, collaborations, and conversations about
 </p>
 
 <p align="center">
-  <strong>Resume:</strong> &nbsp;
-  <a href="./assets/docs/Daksha_Yadav_Resume.pdf">View Resume</a> &nbsp;|&nbsp;
-  <a href="./assets/docs/Daksha_Yadav_Resume.pdf?raw=true">Download Resume</a>
-</p>
-
-<p align="center">
   <img src="./assets/endmarker.gif" alt="" width="100%" />
 </p>
